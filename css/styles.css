@@ -1,12 +1,7 @@
 .title_text{
     position: relative;
-    bottom: 180px;
+    bottom: 200px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.52);
-}
-
-.title_desc{
-    position: relative;
-    top: 250px;
 }
 
 .mb-4{
@@ -15,4 +10,12 @@
 
 footer{
     padding: 2rem 0;
+}
+
+.add_spacing{
+    margin-bottom: 20px;
+}
+
+.portfolio-box{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
