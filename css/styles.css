@@ -1,0 +1,18 @@
+.title_text{
+    position: relative;
+    bottom: 180px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.52);
+}
+
+.title_desc{
+    position: relative;
+    top: 250px;
+}
+
+.mb-4{
+    color: white;
+}
+
+footer{
+    padding: 2rem 0;
+}
