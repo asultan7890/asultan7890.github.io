@@ -26,12 +26,21 @@
     offset: 57
   });
 
+
+
   // Collapse Navbar
   var navbarCollapse = function() {
     if ($("#mainNav").offset().top > 100) {
       $("#mainNav").addClass("navbar-shrink");
+      $(".nav_title img").attr("src", "img/logo/full_logo.png");
     } else {
       $("#mainNav").removeClass("navbar-shrink");
+        if ($("#mainNav").width() <= 992){
+          $(".nav_title img").attr("src", "img/logo/full_logo.png");
+        }
+        else{
+          $(".nav_title img").attr("src", "img/logo/full_logo_white.png");
+        }
     }
   };
   // Collapse now if page is not at top
