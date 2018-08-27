@@ -1,3 +1,3 @@
 # My Portfolio Home Page
 
-Features links to my programming projects
+Features links to my web design, programming, and photography projects.
