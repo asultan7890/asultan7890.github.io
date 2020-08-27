@@ -11,7 +11,7 @@ body {
 hr {
     max-width: 50px;
     border-width: 3px;
-    border-color: #0057bc
+    border-color: #024695
 }
 
 hr.light {
@@ -19,14 +19,14 @@ hr.light {
 }
 
 a {
-    color: #0057bc;
+    color: #024695;
     -webkit-transition: all .2s;
     -moz-transition: all .2s;
     transition: all .2s
 }
 
 a:hover {
-    color: #0057bc
+    color: #024695
 }
 
 h1,
@@ -39,7 +39,7 @@ h6 {
 }
 
 .bg-primary {
-    background-color: #0057bc!important
+    background-color: #024695!important
 }
 
 .bg-dark {
@@ -92,13 +92,13 @@ img::-moz-selection {
 #mainNav .navbar-brand {
     font-weight: 700;
     text-transform: uppercase;
-    color: #0057bc;
+    color: #024695;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif
 }
 
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-    color: #0057bc
+    color: #024695
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link,
@@ -111,12 +111,12 @@ img::-moz-selection {
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover,
 #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
-    color: #0057bc
+    color: #024695
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active,
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active {
-    color: #0057bc!important;
+    color: #024695!important;
     background-color: transparent
 }
 
@@ -153,11 +153,11 @@ img::-moz-selection {
         background-color: #fff
     }
     #mainNav.navbar-shrink .navbar-brand {
-        color: #0057bc
+        color: #024695
     }
     #mainNav.navbar-shrink .navbar-brand:focus,
     #mainNav.navbar-shrink .navbar-brand:hover {
-        color: #0057bc
+        color: #024695
     }
     #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link,
     #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
@@ -165,7 +165,7 @@ img::-moz-selection {
     }
     #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover,
     #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover {
-        color: #0057bc
+        color: #024695
     }
 }
 
@@ -285,7 +285,7 @@ header.masthead p {
 }
 
 .text-primary {
-    color: #0057bc!important
+    color: #024695!important
 }
 
 .btn {
@@ -301,8 +301,8 @@ header.masthead p {
 }
 
 .btn-primary {
-    background-color: #0057bc;
-    border-color: #0057bc
+    background-color: #024695;
+    border-color: #024695
 }
 
 .btn-primary:active,
